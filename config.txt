@@ -1,0 +1,2 @@
+git config -- global "username" 
+  firrst you have to configure and let it know who you are
